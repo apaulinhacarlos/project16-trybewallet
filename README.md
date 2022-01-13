@@ -1,5 +1,5 @@
 
-# Boas vindas ao repositório do projeto de Movie Cards CRUD!
+# Boas vindas ao repositório do projeto de Trybe Wallet!
 
 Projeto desenvolvido por mim durante o curso de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> para fins educacionais e divulgado publicamente como portfólio de aprendizado. 
 
